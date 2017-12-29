@@ -1,0 +1,1 @@
+# React, Redux, Thunk - small project with reqres API
